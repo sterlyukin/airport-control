@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportControl.API", "AirportControl.API\AirportControl.API.csproj", "{90E3661B-1D44-4638-AE9D-9979657DDC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportControl.Application", "AirportControl.Application\AirportControl.Application.csproj", "{1010D925-3ED3-4BF3-B7E9-BD7883F41A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportControl.CteleportClient", "AirportControl.CteleportClient\AirportControl.CteleportClient.csproj", "{BD5A32C9-8BE2-4FD6-B9F8-CD5EDA3D7C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportControl.CacheClient", "AirportControl.CacheClient\AirportControl.CacheClient.csproj", "{50740394-DC43-4094-B74B-55A9C61D52AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E3661B-1D44-4638-AE9D-9979657DDC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E3661B-1D44-4638-AE9D-9979657DDC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E3661B-1D44-4638-AE9D-9979657DDC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E3661B-1D44-4638-AE9D-9979657DDC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1010D925-3ED3-4BF3-B7E9-BD7883F41A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1010D925-3ED3-4BF3-B7E9-BD7883F41A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1010D925-3ED3-4BF3-B7E9-BD7883F41A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1010D925-3ED3-4BF3-B7E9-BD7883F41A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5A32C9-8BE2-4FD6-B9F8-CD5EDA3D7C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5A32C9-8BE2-4FD6-B9F8-CD5EDA3D7C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5A32C9-8BE2-4FD6-B9F8-CD5EDA3D7C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5A32C9-8BE2-4FD6-B9F8-CD5EDA3D7C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50740394-DC43-4094-B74B-55A9C61D52AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50740394-DC43-4094-B74B-55A9C61D52AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50740394-DC43-4094-B74B-55A9C61D52AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50740394-DC43-4094-B74B-55A9C61D52AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
